@@ -1,0 +1,33 @@
+# TurboLearn AI - Requirements File
+# Install with: pip install -r requirements.txt
+
+# Core web framework
+streamlit>=1.28.0
+
+# PDF processing
+PyMuPDF>=1.23.0
+pdfplumber>=0.9.0
+
+# AI/ML libraries
+openai>=1.0.0
+transformers>=4.30.0
+torch>=2.0.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Text processing
+nltk>=3.8
+spacy>=3.6.0
+
+# Additional utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Optional: For local AI models (HuggingFace)
+sentence-transformers>=2.2.0
+accelerate>=0.20.0
+
+# File handling
+python-magic>=0.4.27
