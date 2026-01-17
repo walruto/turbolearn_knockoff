@@ -2,8 +2,7 @@
 
 A modern, responsive replica of the Turbo Learn AI website built with Next.js, TypeScript, and Tailwind CSS. This project features a complete learning platform with AI integration, user authentication, and interactive components.
 
-![Turbo Learn AI](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9e259445-14d2-4807-8e99-c05c64b3bfbf" />
-)
+
 
 ## Features
 
